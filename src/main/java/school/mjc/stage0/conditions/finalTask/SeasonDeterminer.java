@@ -27,7 +27,7 @@ public class SeasonDeterminer {
         } else if (monthNumber==12) {
             System.out.println("Winter");
         } else {
-            System.out.println("wrong month number!");
+            System.out.println("Wrong month number");
         }
     }
 }
